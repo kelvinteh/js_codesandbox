@@ -10,3 +10,4 @@ document.getElementById("app").innerHTML = `
 `;
 
 console.log("whatevers");
+console.log("just checking");
